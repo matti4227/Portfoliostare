@@ -1,0 +1,14 @@
+Tablice można sortować różnymi metodami.
+W bibliotekach większości języków zaimplementowane są szybkie algorytmy sortowania.
+Jakie są jednak rzeczywiste różnice pomiędzy tzw. prostymi algorytmami sortowania a np. algorytmem sortowania szybkiego?
+Proszę napisać program, który pozwoli na przeprowadzenie zautomatyzowanych eksperymentów pozwalających sprawdzić efektywność sortowania.
+Program przeprowadzić automatyczne testy, polegające na utworzeniu tablicy, zapełnieniu jej losowymi danymi,
+oraz posortowaniu jej różnymi metodami (pomiar czasu).
+Proszę utworzyć tablice o: kilkudziesięciu elementach, kilkuset elementach, kilku tysiącach elementów (może uda się dla większego rozmiaru).
+Sortowanie każdą metodą mam być powtórzone 10 razy a wyniku uśrednione.
+Proszę przetestować dwie proste metody sortowania (np. bąbelkowe, proste wybieranie),
+sortowanie szybkie oraz sortowanie dostępne w bibliotekach wybranego języka.
+Uwaga: program jest prosty, wiem, że mało ciekawy. Ale on ma być poligonem doświadczalnym dla przećwiczenia stosowania wzorców projektowych.
+Proszę uważnie przemyśleć jakie można zastosowań w tym programie wzorce projektowe, oraz sporządzić prostą, np. konsolową implementację
+programu wraz z komentarzami wskazującymi jakie wzorce,
+co czego, i w których miejscach zostały zastosowane.

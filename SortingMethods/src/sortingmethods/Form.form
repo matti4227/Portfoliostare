@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="sortingmethods.Form">
+  <grid id="27dc6" binding="jPanel" layout-manager="GridLayoutManager" row-count="13" column-count="9" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+    <margin top="0" left="0" bottom="0" right="0"/>
+    <constraints>
+      <xy x="20" y="20" width="974" height="389"/>
+    </constraints>
+    <properties/>
+    <border type="none"/>
+    <children>
+      <component id="faa9e" class="javax.swing.JButton" binding="stworzTab2">
+        <constraints>
+          <grid row="10" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="2" fill="0" indent="0" use-parent-layout="false">
+            <preferred-size width="130" height="-1"/>
+            <maximum-size width="130" height="-1"/>
+          </grid>
+        </constraints>
+        <properties>
+          <text value="Stwórz tablicę"/>
+        </properties>
+      </component>
+      <component id="ac6b8" class="javax.swing.JButton" binding="stworzTab1">
+        <constraints>
+          <grid row="5" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="2" fill="0" indent="0" use-parent-layout="false">
+            <preferred-size width="130" height="-1"/>
+            <maximum-size width="130" height="-1"/>
+          </grid>
+        </constraints>
+        <properties>
+          <horizontalAlignment value="0"/>
+          <text value="Stwórz tablicę"/>
+        </properties>
+      </component>
+      <component id="f2a3a" class="javax.swing.JTextField" binding="tablica1">
+        <constraints>
+          <grid row="4" column="0" row-span="1" col-span="2" vsize-policy="0" hsize-policy="6" anchor="0" fill="1" indent="0" use-parent-layout="false">
+            <minimum-size width="170" height="20"/>
+            <preferred-size width="290" height="20"/>
+            <maximum-size width="290" height="20"/>
+          </grid>
+        </constraints>
+        <properties/>
+      </component>
+      <component id="9b631" class="javax.swing.JLabel" binding="jLabel1">
+        <constraints>
+          <grid row="0" column="0" row-span="2" col-span="2" vsize-policy="0" hsize-policy="0" anchor="0" fill="2" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Label"/>
+        </properties>
+      </component>
+      <component id="a9f6b" class="javax.swing.JLabel" binding="jLabel2">
+        <constraints>
+          <grid row="0" column="3" row-span="1" col-span="5" vsize-policy="0" hsize-policy="0" anchor="10" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Label"/>
+        </properties>
+      </component>
+      <component id="3b3f8" class="javax.swing.JButton" binding="infoOProgramieButton" default-binding="true">
+        <constraints>
+          <grid row="0" column="8" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Info o programie"/>
+        </properties>
+      </component>
+      <component id="c534f" class="javax.swing.JLabel" binding="quick1">
+        <constraints>
+          <grid row="4" column="5" row-span="1" col-span="2" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="daaa4" class="javax.swing.JLabel" binding="java1">
+        <constraints>
+          <grid row="4" column="7" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="de3d9" class="javax.swing.JLabel" binding="java2">
+        <constraints>
+          <grid row="9" column="7" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="b392b" class="javax.swing.JLabel" binding="quick2">
+        <constraints>
+          <grid row="9" column="5" row-span="1" col-span="2" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="af9a0" class="javax.swing.JLabel" binding="bubble2">
+        <constraints>
+          <grid row="9" column="3" row-span="1" col-span="2" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="c2011" class="javax.swing.JButton" binding="sortuj1">
+        <constraints>
+          <grid row="4" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Sortuj raz"/>
+        </properties>
+      </component>
+      <component id="34df7" class="javax.swing.JButton" binding="sortuj2">
+        <constraints>
+          <grid row="9" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Sortuj raz"/>
+        </properties>
+      </component>
+      <component id="bd6c2" class="javax.swing.JButton" binding="sortuj1_10">
+        <constraints>
+          <grid row="5" column="2" row-span="2" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Sortuj 10 razy"/>
+        </properties>
+      </component>
+      <component id="af49d" class="javax.swing.JLabel" binding="bubble1_10">
+        <constraints>
+          <grid row="5" column="3" row-span="2" col-span="2" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="ec963" class="javax.swing.JLabel" binding="quick1_10">
+        <constraints>
+          <grid row="5" column="5" row-span="2" col-span="2" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="3960f" class="javax.swing.JLabel" binding="java1_10">
+        <constraints>
+          <grid row="5" column="7" row-span="2" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="da332" class="javax.swing.JButton" binding="wyczyśćWynikiButton" default-binding="true">
+        <constraints>
+          <grid row="1" column="8" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Wyczyść wyniki"/>
+        </properties>
+      </component>
+      <component id="1b17f" class="javax.swing.JLabel" binding="infoTablica1">
+        <constraints>
+          <grid row="5" column="1" row-span="2" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false">
+            <minimum-size width="150" height="-1"/>
+            <preferred-size width="150" height="-1"/>
+            <maximum-size width="150" height="-1"/>
+          </grid>
+        </constraints>
+        <properties>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="c3ff8" class="javax.swing.JLabel" binding="infoTablica2">
+        <constraints>
+          <grid row="10" column="1" row-span="2" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false">
+            <minimum-size width="150" height="-1"/>
+            <preferred-size width="150" height="-1"/>
+            <maximum-size width="150" height="-1"/>
+          </grid>
+        </constraints>
+        <properties>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="85e41" class="javax.swing.JTextField" binding="tablica2">
+        <constraints>
+          <grid row="9" column="0" row-span="1" col-span="2" vsize-policy="0" hsize-policy="6" anchor="0" fill="1" indent="0" use-parent-layout="false">
+            <minimum-size width="170" height="20"/>
+            <preferred-size width="290" height="20"/>
+            <maximum-size width="290" height="20"/>
+          </grid>
+        </constraints>
+        <properties/>
+      </component>
+      <component id="184ac" class="javax.swing.JButton" binding="sortuj2_10">
+        <constraints>
+          <grid row="10" column="2" row-span="2" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Sortuj 10 razy"/>
+        </properties>
+      </component>
+      <component id="22935" class="javax.swing.JLabel" binding="bubble2_10">
+        <constraints>
+          <grid row="10" column="3" row-span="2" col-span="2" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="cc4f" class="javax.swing.JLabel" binding="quick2_10">
+        <constraints>
+          <grid row="10" column="5" row-span="2" col-span="2" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="4624d" class="javax.swing.JLabel" binding="java2_10">
+        <constraints>
+          <grid row="10" column="7" row-span="2" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="dd425" class="javax.swing.JCheckBox" binding="pokazCheck">
+        <constraints>
+          <grid row="1" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Pokaż liczby"/>
+        </properties>
+      </component>
+      <component id="2ee26" class="javax.swing.JLabel" binding="info">
+        <constraints>
+          <grid row="0" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="10" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="db541" class="javax.swing.JButton" binding="wyczyscTab1">
+        <constraints>
+          <grid row="6" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="1" fill="0" indent="0" use-parent-layout="false">
+            <preferred-size width="130" height="-1"/>
+            <maximum-size width="130" height="-1"/>
+          </grid>
+        </constraints>
+        <properties>
+          <text value="Wyczyść tablicę"/>
+        </properties>
+      </component>
+      <component id="c1c8b" class="javax.swing.JButton" binding="wyczyscTab2">
+        <constraints>
+          <grid row="11" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="1" fill="0" indent="0" use-parent-layout="false">
+            <preferred-size width="130" height="-1"/>
+            <maximum-size width="130" height="-1"/>
+          </grid>
+        </constraints>
+        <properties>
+          <text value="Wyczyść tablicę"/>
+        </properties>
+      </component>
+      <vspacer id="13289">
+        <constraints>
+          <grid row="7" column="2" row-span="1" col-span="1" vsize-policy="6" hsize-policy="1" anchor="0" fill="2" indent="0" use-parent-layout="false">
+            <minimum-size width="-1" height="20"/>
+            <preferred-size width="-1" height="20"/>
+            <maximum-size width="-1" height="20"/>
+          </grid>
+        </constraints>
+      </vspacer>
+      <vspacer id="35fec">
+        <constraints>
+          <grid row="2" column="2" row-span="1" col-span="1" vsize-policy="6" hsize-policy="1" anchor="0" fill="2" indent="0" use-parent-layout="false">
+            <minimum-size width="-1" height="7"/>
+            <preferred-size width="-1" height="7"/>
+            <maximum-size width="-1" height="7"/>
+          </grid>
+        </constraints>
+      </vspacer>
+      <component id="cc653" class="javax.swing.JLabel" binding="t2">
+        <constraints>
+          <grid row="8" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="2" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Tablica 2"/>
+        </properties>
+      </component>
+      <component id="cc23c" class="javax.swing.JLabel" binding="t1">
+        <constraints>
+          <grid row="3" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="2" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Tablica 1"/>
+        </properties>
+      </component>
+      <vspacer id="f6fce">
+        <constraints>
+          <grid row="12" column="2" row-span="1" col-span="1" vsize-policy="6" hsize-policy="1" anchor="0" fill="2" indent="0" use-parent-layout="false">
+            <minimum-size width="-1" height="3"/>
+            <preferred-size width="-1" height="3"/>
+            <maximum-size width="-1" height="3"/>
+          </grid>
+        </constraints>
+      </vspacer>
+      <component id="508ca" class="javax.swing.JCheckBox" binding="bubbleCheck">
+        <constraints>
+          <grid row="1" column="3" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="BubbleSort"/>
+        </properties>
+      </component>
+      <component id="c9d54" class="javax.swing.JCheckBox" binding="quickCheck">
+        <constraints>
+          <grid row="1" column="5" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="QuickSort"/>
+        </properties>
+      </component>
+      <component id="24ad4" class="javax.swing.JCheckBox" binding="javaCheck">
+        <constraints>
+          <grid row="1" column="7" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="JavaSort"/>
+        </properties>
+      </component>
+      <component id="2b2af" class="javax.swing.JLabel" binding="bubble1">
+        <constraints>
+          <grid row="4" column="3" row-span="1" col-span="2" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value=""/>
+        </properties>
+      </component>
+    </children>
+  </grid>
+</form>
