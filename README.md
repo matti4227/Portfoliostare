@@ -1,6 +1,7 @@
 Sorting Methods 
 
-    Aplikacja sortująca tablice jedną z trzech przykladowych metod sortowania oraz wyświetlająca czas potrzebny na posortowanie.
+    Aplikacja sortująca tablice jedną z trzech przykladowych metod sortowania oraz
+    wyświetlająca czas potrzebny na posortowanie.
     Wykorzystuje kilka wzorców projektowych.
 
 Suppress The Rebellion
